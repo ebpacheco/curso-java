@@ -1,0 +1,8 @@
+package Teste;
+
+public class PlanetaMain {
+	
+	public static void main(String[] args) {
+		
+	}
+}

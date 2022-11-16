@@ -1,0 +1,25 @@
+package br.com.cod3r.cm.visao;
+
+import br.com.cod3r.cm.excecao.SairException;
+import br.com.cod3r.cm.modelo.Tabuleiro;
+
+public class TabuleiroConsole {
+
+	private Tabuleiro tabuleiro;
+
+	public TabuleiroConsole(Tabuleiro tabuleiro) {
+		super();
+		this.tabuleiro = tabuleiro;
+		executarJogo();
+	}
+
+	private void executarJogo() {
+		try {
+			
+		} catch (SairException e) {
+			System.out.println("Tchau!!!");
+		}
+		
+	}
+
+}

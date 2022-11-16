@@ -1,0 +1,14 @@
+package Teste;
+
+import java.util.Scanner;
+
+public class PlanetaMain {
+
+	public static void main(String[] args) {
+
+		Scanner entrada = new Scanner(System.in);
+		String planeta;
+
+		PlanetaTeste p1 = new PlanetaTeste(planeta);
+	}
+}
