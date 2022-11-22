@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;lista&apos; in &apos;colecoes.Fila.main(...)&apos; to &apos;fila&apos;&#x0D;&#x0A;- Original project: &apos;exercicios&apos;&#x0D;&#x0A;- Original element: &apos;colecoes.Fila.main(String[]).lista&apos;&#x0D;&#x0A;- Renamed element: &apos;lista&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;lista&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;colecoes{Fila.java[Fila~main~\[QString;@lista!148!188!162!166!QQueue\&lt;QString;&gt;;!0!false" name="fila" references="true" stamp="1661952476302" version="1.0"/>
-</session>
