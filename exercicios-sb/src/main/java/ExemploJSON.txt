@@ -1,0 +1,15 @@
+{
+   "id" : "123",
+   "nome" : "Eduardo",
+   "dataNascimento" : "18/10/1992",
+   "vip" : true,
+   "salario": 123.45,
+   "edereco": {
+      "logradouro" : "Rua ABC",
+      "numero" : 123
+   },
+   "dependentes" : [
+      {"id": 456, "nome" : "Babi" },
+      {"id": 789, "nome" : "Rita" }
+   ]
+}
